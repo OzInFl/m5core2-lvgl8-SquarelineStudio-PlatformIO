@@ -124,7 +124,6 @@ void setup()
 void loop()
 {
   M5.update();
-  //my_touchpad_read();
   lv_task_handler();
   
 }
