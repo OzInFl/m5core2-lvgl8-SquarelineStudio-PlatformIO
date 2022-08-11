@@ -6,7 +6,7 @@ I have included a basic interface that I am creating to test with .
 If you set your export directory in squareline to the src directory of this porject you can edit your UI and export then rebuild the Platformio project.
 Finally uploading to the M5Stack COre2 Device. 
 
-Still a work in progress, but thought it may help a few folks out ther looking for a starting point. 
+Still a work in progress, but thought it may help a few folks out there looking for a starting point. 
 
 Im hoping that my hours of aggrivation figuring it out will help someone like me that was beating their head up against the wall!!
 
