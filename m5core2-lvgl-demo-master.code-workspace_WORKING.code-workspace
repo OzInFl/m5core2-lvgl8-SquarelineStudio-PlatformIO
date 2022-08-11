@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"lvgl.h": "c",
+			"ui.h": "c"
+		}
+	}
+}
