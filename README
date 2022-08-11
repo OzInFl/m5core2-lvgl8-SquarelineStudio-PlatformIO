@@ -1,3 +1,19 @@
+Modified to work with the Squareline Studio Beta 1.1.0 beta1 
+(although it may work with the current stable 1.0.5 (with lvgl8 export) as well)
+
+I have included a basic interface that I am creating to test with . 
+
+If you set your export directory in squareline to the src directory of this porject you can edit your UI and export then rebuild the Platformio project.
+Finally uploading to the M5Stack COre2 Device. 
+
+Still a work in progress, but thought it may help a few folks out ther looking for a starting point. 
+
+Im hoping that my hours of aggrivation figuring it out will help someone like me that was beating their head up against the wall!!
+
+
+ORIGINAL TEXT - 
+
+
 LVGL example for M5Stack Core2, Arduino and platformio
 
 taken from:
